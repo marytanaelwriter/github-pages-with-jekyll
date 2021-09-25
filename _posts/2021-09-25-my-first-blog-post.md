@@ -1,6 +1,7 @@
-__
-title: Sample-Blog-Post
+---
+title: "Sample Blog Post"
 date: 2021-09-25
+---
 
 # Sample Blog Post
 
